@@ -1,14 +1,14 @@
 # Inherit from common
 include device/samsung/j5-common/BoardConfigCommon.mk
 
-LOCAL_PATH := device/samsung/j5ltexx
+LOCAL_PATH := device/samsung/j5ltechn
 
 # Asserts
-TARGET_OTA_ASSERT_DEVICE := j5ltexx,j5lte
+TARGET_OTA_ASSERT_DEVICE := j5ltechn,j5ltezm
 
 # Kernel
-TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_j5lte_eur_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_j5lte_chncmcc_defconfig
 
 # Partition sizes
-BOARD_SYSTEMIMAGE_PARTITION_SIZE    := 2181038080
+BOARD_SYSTEMIMAGE_PARTITION_SIZE    := 1824522240
 BOARD_USERDATAIMAGE_PARTITION_SIZE  := 5016350720

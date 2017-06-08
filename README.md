@@ -1,4 +1,4 @@
-# android_device_samsung_j5ltexx
+# android_device_samsung_j5ltechn
 
 ## Device tree for Samsung Galaxy J5 LTE
 
