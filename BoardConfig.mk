@@ -9,9 +9,6 @@ TARGET_OTA_ASSERT_DEVICE := j5ltechn,j5ltezm
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_j5lte_chncmcc_defconfig
 
-# Audio
-AUDIO_FEATURE_SAMSUNG_DUAL_SIM := true
-
 # Radio
 SIM_COUNT := 2
 
