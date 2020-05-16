@@ -1,17 +1,17 @@
 # Inherit from common
-include device/samsung/j5x-common/BoardConfigCommon.mk
+include device/samsung/j3x-common/BoardConfigCommon.mk
 
-LOCAL_PATH := device/samsung/j5xnlte
+LOCAL_PATH := device/samsung/j3xproltechn
 
 # Asserts
-TARGET_OTA_ASSERT_DEVICE := j5xnlte,j5xlte
+TARGET_OTA_ASSERT_DEVICE := j3xproltechn,j3xproltezc
 
 # Kernel
-TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_j5xnlte_eur_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_j3xprolte_chnopen_defconfig
 
 # Partition sizes
-BOARD_SYSTEMIMAGE_PARTITION_SIZE    := 2181038080
-BOARD_USERDATAIMAGE_PARTITION_SIZE  := 5016350720
+BOARD_SYSTEMIMAGE_PARTITION_SIZE    := 1975517184
+BOARD_USERDATAIMAGE_PARTITION_SIZE  := 13371420672
 
 # RIL
 SIM_COUNT := 2
