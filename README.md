@@ -1,4 +1,4 @@
-# android_device_samsung_j3xproltechn
+# android_device_samsung_j3xproltectc
 
 ## Device tree for Samsung Galaxy J3 Pro
 

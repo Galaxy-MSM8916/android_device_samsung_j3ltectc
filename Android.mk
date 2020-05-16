@@ -1,4 +1,4 @@
-ifneq ($(filter j3xproltechn j3xproltezc, $(TARGET_DEVICE)),)
+ifneq ($(filter j3xproltectc, $(TARGET_DEVICE)),)
 LOCAL_PATH := $(call my-dir)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 include $(call all-makefiles-under,$(LOCAL_PATH))
