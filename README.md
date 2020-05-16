@@ -1,15 +1,15 @@
-# android_device_samsung_j3xproltectc
+# android_device_samsung_j3ltectc
 
-## Device tree for Samsung Galaxy J3 Pro
+## Device tree for Samsung Galaxy J3
 
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Qualcomm MSM8916/MSM8216 Quad-core 1.2 GHz ARM® Cortex™ A53
 CHIPSET | Qualcomm MSM8916 Snapdragon 410
 GPU     | Adreno 306
-Memory  | 2 GB
+Memory  | 1 GB
 Shipped Android Version | 5.1.1
-Storage | 16 GB
+Storage | 8 GB
 MicroSD | Up to 256 GB
 Battery | 2600 mAh (removable)
 Dimensions | 144.8 x 72.1 x 8.6 mm

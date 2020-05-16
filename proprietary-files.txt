@@ -1,15 +1,6 @@
-# ACDB from J3119KEU1ARA2 (Android 5.1)
-etc/Bluetooth_cal.acdb
-etc/General_cal.acdb
-etc/Global_cal.acdb
-etc/Handset_cal.acdb
-etc/Hdmi_cal.acdb
-etc/Headset_cal.acdb
-etc/Speaker_cal.acdb
+# Sensors from J3109KES1ARG1 (Android 5.1)
+lib/hw/sensors.vendor.msm8916.so|7486e9e99075a466f20b19b97d221e175fef665b  
 
-# RIL from J3119KEU1ARA2 (Android 5.1)
-lib/libsec-ril-dsds.so|73f79c8ffce8d270e5950c1bde4b589e2cdc3066
-lib/libsec-ril.so|45d403045cf9f4c21eb01a904d2bb3b75d5d255a
-
-# NFC (From https://github.com/NXPNFCProject/NXPNFCC_FW/blob/master/pn548ad/32-bit/libpn548ad_fw.so)
-vendor/firmware/libpn548ad_fw.so|88a35cebace27c3a93439972660f034b
+# RIL from J3109KES1ARG1 (Android 5.1)
+lib/libsec-ril-dsds.so|4f2dc9471b6b8cc4ce4a233432fb2e054eaca381
+lib/libsec-ril.so|47b61c6d4d897b63c2987c5f87effea1ff14e7a8
