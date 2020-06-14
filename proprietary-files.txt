@@ -1,11 +1,6 @@
-# Samsung Package Version J5008ZMU1AQB1_J5008CHM1AQB1_CHM (unless otherwise specified and/or tagged)
+# Sensors - J3109KES1ARG1 (Android 5.1)
+lib/hw/sensors.vendor.msm8916.so|7486e9e99075a466f20b19b97d221e175fef665b  
 
-# NFC (From https://github.com/NXPNFCProject/NXPNFCC_FW/blob/master/pn548ad/32-bit/libpn548ad_fw.so)
-vendor/firmware/libpn548ad_fw.so|88a35cebace27c3a93439972660f034b
-
-# RIL
-lib/libsec-ril.so|7afe805d4012754d255cf5418eb64c73
-lib/libsec-ril-dsds.so|51f1d1710cab852d1498a43728743db7
-
-# Sensors
-lib/hw/sensors.msm8916.so:lib/hw/sensors.vendor.msm8916.so
+# RIL - J3109KES1ARG1 (Android 5.1)
+lib/libsec-ril-dsds.so|4f2dc9471b6b8cc4ce4a233432fb2e054eaca381
+lib/libsec-ril.so|47b61c6d4d897b63c2987c5f87effea1ff14e7a8
